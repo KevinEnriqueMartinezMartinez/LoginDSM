@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49752085605",
+    "project_id": "loginudb",
+    "storage_bucket": "loginudb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49752085605:android:2cd3eeba16229d0508e28c",
+        "android_client_info": {
+          "package_name": "com.example.loginudb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49752085605-dn5k5t1hh33792t1318krli2vtcj726l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginudb",
+            "certificate_hash": "627a822bccb94dfcbdd745fb44ead30daac07757"
+          }
+        },
+        {
+          "client_id": "49752085605-ahi8r5539idcc829am6kn3uouhbc2g0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8TG-utMIzMy_m_QWexm90hPee3sTfvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49752085605-ahi8r5539idcc829am6kn3uouhbc2g0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
